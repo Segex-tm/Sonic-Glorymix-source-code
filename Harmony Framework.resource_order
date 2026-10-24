@@ -1,0 +1,10 @@
+{
+  "FolderOrderSettings":[
+    {"name":"02-GREEN-HILL","order":2,"path":"folders/Rooms/Stages/02-GREEN-HILL.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"obj_credits","order":1,"path":"objects/obj_credits/obj_credits.yy",},
+    {"name":"rm_credits","order":1,"path":"rooms/rm_credits/rm_credits.yy",},
+    {"name":"bgm_green_hill1","order":1,"path":"sounds/bgm_green_hill1/bgm_green_hill1.yy",},
+  ],
+}
