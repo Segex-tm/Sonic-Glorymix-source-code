@@ -1,0 +1,1 @@
+menu = obj_credits
